@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 16, 2020, 10:09:31 PM
+    Author     : cimiko
+*/
+        nav {
+            z-index: 999;
+            position: fixed;
+        }
+
+        span {
+            font-weight: 800;
+        }
+
+        .jumbotron {
+            color: aliceblue;
+            background: none;
+            min-width: 100%;
+            min-height: 100%;
+            width: 100%;
+            height: 100vh;
+            z-index: 0;
+            position: relative;
+            padding-top: 15%;
+            padding-left: 70px;
+
+        }
+
+        .jumbotron h1 {
+            
+        }
+
+        #jumbotronBG {
+            position: absolute;
+            top: 0;
+            right: 0;
+            min-width: 100%;
+            min-height: 100%;
+            width: 100%;
+            z-index: -1;
+        }
+
+        #myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            z-index: -2;
+        }
+
+        #mapid {
+            width: 90%;
+            height: 500px;
+            z-index: 0;
+            margin: auto;
+            padding: auto;
+            border-radius: 25px;
+            margin-bottom: 50px;
+        }
+        
+        .btn:hover{
+            box-shadow: 1px 4px white;
+        }
+
+        .btn:active{
+            transform: translateY(4px);
+            transform: translateX(1px);
+            box-shadow: none;
+
+        }
+        
+        .collapse .navbar-nav .dropdown .dropdown-menu .dropdown-item{
+            font-size: 5px;
+        }
+
+    

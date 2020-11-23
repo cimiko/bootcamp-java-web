@@ -1,0 +1,9 @@
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/dao/PersonDaoJdbc.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/controller/RegisterController.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/controller/ChangePasswordController.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/controller/HomeController.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/PersonServlet.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/entity/Person.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/model/Authenticator.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/controller/LoginController.java
+/Users/cimiko/bootcamp-java-Crud/src/main/java/co/g2academy/bootcamp/model/LoginModel.java
